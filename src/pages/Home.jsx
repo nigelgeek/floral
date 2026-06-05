@@ -47,10 +47,10 @@ export default function Home() {
         <Hero />
         <Marquee />
 
-        <section className="mx-auto max-w-7xl px-6 py-20 sm:px-8">
+        <section id="catalog" className="mx-auto max-w-7xl px-6 py-20 sm:px-8">
           <div className="mb-10 max-w-3xl">
             <p className="mb-4 text-sm uppercase tracking-[0.5em] text-blush/80">— This Season</p>
-            <h2 className="text-4xl font-[Playfair_Display] tracking-tight sm:text-5xl">Featured <span className="italic text-blush">/ Arrangements</span></h2>
+            <h2 className="text-4xl font-display tracking-tight sm:text-5xl">Featured <span className="italic text-blush">/ Arrangements</span></h2>
           </div>
 
           <div className="grid gap-6 md:grid-cols-3">

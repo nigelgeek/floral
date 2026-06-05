@@ -7,7 +7,7 @@ export default function OccasionSection({ options, selected, onSelect }) {
         <div className="space-y-8">
           <p className="text-sm uppercase tracking-[0.4em] text-blush/80">Shop by occasion</p>
           <div>
-            <h2 className="text-5xl font-[Playfair_Display] tracking-tight text-cream sm:text-6xl">Every moment deserves flowers</h2>
+            <h2 className="text-5xl font-display tracking-tight text-cream sm:text-6xl">Every moment deserves flowers</h2>
             <p className="mt-6 max-w-xl text-base leading-8 text-muted">
               Discover blooms curated for celebrations, intimate gestures, and unforgettable corporate moments. The right arrangement can transform any environment.
             </p>

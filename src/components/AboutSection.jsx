@@ -17,7 +17,7 @@ export default function AboutSection() {
         <div className="space-y-8">
           <p className="text-sm uppercase tracking-[0.4em] text-blush/80">Our Story</p>
           <div className="space-y-4">
-            <h2 className="text-5xl font-[Playfair_Display] tracking-tight text-cream sm:text-6xl">
+            <h2 className="text-5xl font-display tracking-tight text-cream sm:text-6xl">
               A floral atelier shaped by craft and quiet luxury
             </h2>
             <p className="max-w-xl text-base leading-8 text-muted">
