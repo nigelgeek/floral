@@ -11,11 +11,11 @@ import Footer from '../components/Footer'
 import products from '../data/products'
 
 const occasionOptions = [
-  { key: 'Weddings', title: 'Weddings', image: 'https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=900&q=80' },
-  { key: 'Birthdays', title: 'Birthdays', image: 'https://images.unsplash.com/photo-1526227605189-0a45a67ff011?auto=format&fit=crop&w=900&q=80' },
-  { key: 'Sympathy', title: 'Sympathy', image: 'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80' },
-  { key: 'Corporate', title: 'Corporate', image: 'https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=900&q=80' },
-  { key: 'Custom', title: 'Custom', image: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=900&q=80' },
+  { key: 'Weddings', title: 'Weddings', image: 'https://images.unsplash.com/photo-1500530855697-b586d89ba3ee' },
+  { key: 'Birthdays', title: 'Birthdays', image: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f' },
+  { key: 'Sympathy', title: 'Sympathy', image: 'https://images.unsplash.com/photo-1501004318641-b39e6451bec6' },
+  { key: 'Corporate', title: 'Corporate', image: 'https://images.unsplash.com/photo-1501004318641-b39e6451bec6' },
+  { key: 'Custom', title: 'Custom', image: 'https://images.unsplash.com/photo-1494256997604-768d1f608cac' },
 ]
 
 const faqs = [
@@ -41,7 +41,7 @@ export default function Home() {
   const [selectedOccasion, setSelectedOccasion] = useState(occasionOptions[0])
 
   return (
-    <div className="min-h-screen bg-bg text-cream">
+    <div id="top" className="min-h-screen bg-bg text-cream">
       <Nav />
       <main>
         <Hero />

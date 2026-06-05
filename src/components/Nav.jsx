@@ -4,7 +4,7 @@ export default function Nav() {
   return (
     <header className="fixed inset-x-0 top-0 z-40 border-b border-border/50 bg-bg/80 backdrop-blur-xl">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4 sm:px-8">
-        <div className="font-display text-xl font-semibold tracking-[0.18em] text-blush cursor-pointer">Fleurá</div>
+        <a href="#top" className="font-display text-xl font-semibold tracking-[0.18em] text-blush transition hover:text-blush/80">Fleurá</a>
 
         <nav className="hidden items-center gap-8 md:flex">
           {links.map((link) => (

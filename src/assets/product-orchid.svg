@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="productOrchidTitle">
+  <title id="productOrchidTitle">Orchid bouquet illustration</title>
+  <rect width="900" height="700" fill="#130f12" />
+  <ellipse cx="450" cy="300" rx="120" ry="170" fill="#e5b8c7" />
+  <ellipse cx="520" cy="290" rx="90" ry="110" fill="#f0c8d9" />
+  <ellipse cx="380" cy="290" rx="90" ry="110" fill="#d895ab" />
+  <circle cx="460" cy="210" r="42" fill="#fff1f5" />
+  <path d="M420 380c50 70 135 70 175 10" stroke="#f5bfd1" stroke-width="28" fill="none" stroke-linecap="round" />
+  <rect x="340" y="460" width="260" height="140" rx="40" fill="#22161e" opacity="0.8" />
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="heroFlowerTitle">
+  <title id="heroFlowerTitle">Floral bouquet illustration</title>
+  <defs>
+    <linearGradient id="heroGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7c3d4" />
+      <stop offset="100%" stop-color="#7b4e7e" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="700" fill="#120c10" />
+  <circle cx="300" cy="360" r="130" fill="#f8d4d8" opacity="0.9" />
+  <circle cx="480" cy="260" r="110" fill="#f2b5c4" />
+  <path d="M320 320c50-90 170-90 220 0" fill="none" stroke="#f7c3d4" stroke-width="40" stroke-linecap="round" />
+  <path d="M290 430c-20 80 30 120 100 125" stroke="#f2b5c4" stroke-width="34" fill="none" stroke-linecap="round" />
+  <path d="M430 320c50-70 160-60 180 20" stroke="#bf8bb1" stroke-width="34" fill="none" stroke-linecap="round" />
+  <path d="M260 320c-40-80-130-90-180-30" fill="none" stroke="#f0b4c2" stroke-width="30" stroke-linecap="round" />
+  <circle cx="450" cy="230" r="24" fill="#fff" opacity="0.8" />
+  <circle cx="330" cy="420" r="22" fill="#fff" opacity="0.8" />
+  <rect x="180" y="500" width="540" height="90" rx="40" fill="url(#heroGrad)" opacity="0.35" />
+</svg>

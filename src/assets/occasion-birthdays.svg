@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="occasionBirthdaysTitle">
+  <title id="occasionBirthdaysTitle">Birthday bouquet illustration</title>
+  <rect width="900" height="700" fill="#120d11" />
+  <circle cx="320" cy="360" r="100" fill="#f1c0d0" />
+  <circle cx="540" cy="300" r="100" fill="#f7d4df" />
+  <path d="M270 340c40-90 170-120 240-60" stroke="#f7adb7" stroke-width="30" fill="none" stroke-linecap="round" />
+  <circle cx="460" cy="230" r="38" fill="#fff7f9" />
+  <circle cx="680" cy="400" r="26" fill="#f8d7e0" />
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="productRoseTitle">
+  <title id="productRoseTitle">Rose bouquet illustration</title>
+  <rect width="900" height="700" fill="#160f12" />
+  <circle cx="470" cy="310" r="120" fill="#e8a0b0" />
+  <circle cx="385" cy="260" r="90" fill="#f2c1ce" />
+  <circle cx="540" cy="280" r="90" fill="#c16f88" />
+  <circle cx="450" cy="190" r="55" fill="#fff1f5" />
+  <path d="M460 360c22 40 88 40 118 15" stroke="#f1b1c4" stroke-width="30" fill="none" stroke-linecap="round" />
+  <rect x="360" y="440" width="230" height="160" rx="40" fill="#23181f" opacity="0.85" />
+</svg>

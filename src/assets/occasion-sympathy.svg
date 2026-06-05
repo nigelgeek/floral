@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="occasionSympathyTitle">
+  <title id="occasionSympathyTitle">Sympathy flowers illustration</title>
+  <rect width="900" height="700" fill="#110c10" />
+  <path d="M200 460c80-150 240-180 360-120" stroke="#b989a6" stroke-width="28" fill="none" stroke-linecap="round" />
+  <circle cx="340" cy="310" r="106" fill="#c99aa8" />
+  <circle cx="520" cy="280" r="90" fill="#d7a2b1" />
+  <circle cx="430" cy="220" r="44" fill="#f2d7de" />
+</svg>

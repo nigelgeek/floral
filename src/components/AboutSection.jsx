@@ -5,8 +5,8 @@ export default function AboutSection() {
         <div className="relative overflow-hidden rounded-[2rem] border border-border bg-surface shadow-panel">
           <img
             className="h-full w-full object-cover"
-            src="https://images.unsplash.com/photo-1499510318561-9f0531dce8c9?auto=format&fit=crop&w=1200&q=80"
-            alt="Floral studio"
+            src="https://images.unsplash.com/photo-1494256997604-768d1f608cac"
+            alt="Floral arrangement"
             loading="lazy"
           />
           <div className="absolute left-6 top-6 rounded-full bg-bg/80 px-4 py-2 text-xs uppercase tracking-[0.3em] text-blush">

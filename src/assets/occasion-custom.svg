@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="occasionCustomTitle">
+  <title id="occasionCustomTitle">Custom order floral illustration</title>
+  <rect width="900" height="700" fill="#120b0f" />
+  <circle cx="290" cy="330" r="108" fill="#e5a4c5" />
+  <circle cx="470" cy="280" r="96" fill="#e8c1d3" />
+  <circle cx="590" cy="350" r="82" fill="#d77ea1" />
+  <path d="M330 430c65 38 168 38 220-3" stroke="#f2c4d4" stroke-width="30" fill="none" stroke-linecap="round" />
+</svg>

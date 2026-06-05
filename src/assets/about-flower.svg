@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="aboutFlowerTitle">
+  <title id="aboutFlowerTitle">Editorial flower arrangement illustration</title>
+  <rect width="900" height="700" fill="#130d12" />
+  <ellipse cx="470" cy="520" rx="380" ry="180" fill="#1a1418" />
+  <circle cx="310" cy="290" r="130" fill="#e7aabd" />
+  <circle cx="540" cy="250" r="120" fill="#f4cedb" />
+  <path d="M320 320c90-40 170-35 210 18" stroke="#b0657d" stroke-width="32" fill="none" stroke-linecap="round" />
+  <path d="M440 260c22-45 76-60 112-30" stroke="#f9d7e3" stroke-width="28" fill="none" stroke-linecap="round" />
+  <path d="M430 360c-95 40-172 18-190-38" stroke="#d66d88" stroke-width="30" fill="none" stroke-linecap="round" />
+  <polygon points="520,520 560,420 620,450 600,540" fill="#f0b1c5" opacity="0.85" />
+  <circle cx="650" cy="390" r="22" fill="#fff" opacity="0.9" />
+</svg>

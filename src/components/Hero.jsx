@@ -26,7 +26,7 @@ export default function Hero() {
         <div className="relative hidden w-full max-w-xl lg:block">
           <div className="relative overflow-hidden rounded-[2rem] border border-border bg-surface shadow-panel">
             <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,_rgba(232,160,176,0.18),_transparent_22%)]" />
-            <div className="relative h-[420px] bg-cover bg-center" style={{ backgroundImage: 'url(https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80)' }} />
+            <div className="relative h-[420px] bg-cover bg-center" style={{ backgroundImage: 'url(https://images.unsplash.com/photo-1524504388940-b1c1722653e1)' }} />
           </div>
         </div>
       </div>
