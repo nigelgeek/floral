@@ -1,0 +1,87 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  font-family: 'Jost', sans-serif;
+  background-color: #0e0c0d;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: #0e0c0d;
+  color: #f5efe8;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+::selection {
+  background: rgba(232, 160, 176, 0.35);
+  color: #fff;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+.font-display {
+  font-family: 'Playfair Display', serif;
+}
+
+.section-glow {
+  background-image: radial-gradient(circle at top, rgba(232, 160, 176, 0.16), transparent 45%);
+}
+
+.shadow-panel {
+  box-shadow: 0 40px 120px rgba(0, 0, 0, 0.18);
+}
+
+.bg-surface-soft {
+  background: rgba(22, 18, 20, 0.84);
+  border: 1px solid rgba(232, 160, 176, 0.12);
+  backdrop-filter: blur(12px);
+}
+
+.text-muted {
+  color: #8a7880;
+}
+
+.text-blush-soft {
+  color: #f0c0cc;
+}
+
+.animate-marquee {
+  display: inline-flex;
+  animation: marquee 20s linear infinite;
+}
+
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.underline-dash {
+  background-image: linear-gradient(90deg, rgba(232, 160, 176, 0.15) 0%, rgba(232, 160, 176, 0.15) 100%);
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+  background-size: 72px 0.2em;
+}
